@@ -1,0 +1,11 @@
+.body {
+    background-color: rgb(255, 0, 0);
+}
+
+.first_section {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
